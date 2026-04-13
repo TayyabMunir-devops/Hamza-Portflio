@@ -101,6 +101,15 @@ TECHNICAL SKILLS
           initial="hidden"
           animate="visible"
         >
+          {/* Profile Photo */}
+          <motion.div variants={itemVariants} className="mb-8">
+            <img
+              src="/profile.jpg"
+              alt="Muhammad Hamza Raza"
+              className="w-48 h-48 rounded-full mx-auto object-cover shadow-2xl border-4 border-blue-600"
+            />
+          </motion.div>
+
           {/* Name */}
           <motion.div variants={itemVariants} className="mb-4">
             <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-gray-900 mb-2">
@@ -124,7 +133,7 @@ TECHNICAL SKILLS
           {/* Description */}
           <motion.div variants={itemVariants} className="mb-10">
             <p className="text-lg text-gray-500 max-w-2xl mx-auto leading-relaxed">
-              Sales Professional with 3 year of experience in lead generation, client handling, and closing deals. Target-driven, persuasive, and skilled in building customer relationships, follow-ups, and achieving sales goals in the healthcare industry.
+              Sales Professional with 2 year of experience in lead generation, client handling, and closing deals. Target-driven, persuasive, and skilled in building customer relationships, follow-ups, and achieving sales goals in the healthcare industry.
             </p>
           </motion.div>
 

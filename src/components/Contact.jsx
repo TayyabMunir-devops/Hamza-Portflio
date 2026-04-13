@@ -303,7 +303,7 @@ LinkedIn: Muhammad Hamza Raza
 
 PROFESSIONAL SUMMARY
 ═══════════════════════════════════════════════════════════
-Sales Professional with 1 year of experience in lead generation, client handling, and closing deals. Target-driven, persuasive, and skilled in building customer relationships, follow-ups, and achieving sales goals in the healthcare industry.
+Sales Professional with 3 years of experience in lead generation, client handling, and closing deals. Target-driven, persuasive, and skilled in building customer relationships, follow-ups, and achieving sales goals in the healthcare industry.
 
 Currently working as Senior Business Development Officer at MedSole RCM, eager to continue growing in the healthcare field and contribute skills to a dynamic and supportive team.
 
