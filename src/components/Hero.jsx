@@ -103,12 +103,14 @@ TECHNICAL SKILLS
         >
           {/* Profile Photo */}
           <motion.div variants={itemVariants} className="mb-8">
-            <img
-              src="/profile.jpg"
-              alt="Muhammad Hamza Raza"
-              className="w-48 h-48 rounded-full mx-auto object-cover shadow-2xl border-4 border-blue-600"
-            />
-          </motion.div>
+  <div className="w-48 h-48 rounded-full mx-auto overflow-hidden border-4 border-blue-600 shadow-2xl">
+    <img
+      src="/profile.jpg"
+      alt="Muhammad Hamza Raza"
+      className="w-full h-full object-cover object-[50%_30%]"
+    />
+  </div>
+</motion.div>
 
           {/* Name */}
           <motion.div variants={itemVariants} className="mb-4">
