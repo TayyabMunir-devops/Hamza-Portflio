@@ -17,7 +17,7 @@ Vercel is optimized for Vite and React projects with automatic deployments.
 ### Option A: Using Vercel CLI
 
 ```bash
-# Install Vercel CLI
+# Install Vercel 
 npm install -g vercel
 
 # Deploy
